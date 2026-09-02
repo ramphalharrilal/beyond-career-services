@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+  <title id="title">Beyond Career Services BCS monogram logo</title>
+  <desc id="desc">A teal open C surrounds a purple B monogram with a gold point, beside the Beyond Career Services wordmark.</desc>
+
+  <g transform="translate(45 12)">
+    <!-- Open C: community, continuity, and an open future. -->
+    <path d="M470 117 C428 72 365 47 296 47 C172 47 76 142 76 260 C76 378 172 473 296 473 C365 473 428 448 470 403"
+          fill="none" stroke="#168C8C" stroke-width="40" stroke-linecap="round"/>
+
+    <!-- Custom B: the organization initials reduced to a strong, ownable mark. -->
+    <path d="M205 140 V380"
+          fill="none" stroke="#5A3D73" stroke-width="38" stroke-linecap="round"/>
+    <path d="M205 145 H297 C357 145 391 174 391 217 C391 260 357 282 300 282 H205"
+          fill="none" stroke="#5A3D73" stroke-width="38" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M205 282 H312 C376 282 411 312 411 356 C411 401 376 423 312 423 H205"
+          fill="none" stroke="#5A3D73" stroke-width="38" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <!-- Gold point at the open side represents the next opportunity. -->
+    <circle cx="476" cy="260" r="25" fill="#F2C14E"/>
+  </g>
+
+  <g transform="translate(700 92)">
+    <text x="0" y="112" font-family="Arial, Helvetica, sans-serif" font-size="112" font-weight="700" letter-spacing="1" fill="#5A3D73">BEYOND</text>
+    <text x="3" y="196" font-family="Arial, Helvetica, sans-serif" font-size="61" font-weight="700" letter-spacing="7" fill="#168C8C">CAREER SERVICES</text>
+    <rect x="3" y="232" width="94" height="8" fill="#F2C14E"/>
+    <text x="3" y="286" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" letter-spacing="0.2" fill="#1F2937">Beyond a Big Heart—Building Skills, Confidence, and Careers.</text>
+  </g>
+</svg>
+

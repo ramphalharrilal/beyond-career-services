@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://ramphalharrilal.github.io/beyond-career-services/sitemap.xml
+
