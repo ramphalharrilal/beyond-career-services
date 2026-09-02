@@ -2,4 +2,4 @@
 
 Public preview website for Beyond Career Services.
 
-Live preview: https://ramphalharrilal.github.io/beyond-career-services/
+https://ramphalharrilal.github.io/beyond-career-services/
