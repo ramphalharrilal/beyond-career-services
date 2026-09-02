@@ -181,6 +181,9 @@ a { color: inherit; }
 .service-detail-top span { color: rgba(90,61,115,.3); font-family: var(--font-display); font-size: 1.5rem; }
 .service-detail-card h2 { margin: 1.3rem 0 .6rem; color: var(--purple-deep); font-family: var(--font-display); font-size: 1.7rem; line-height: 1.15; }
 .service-detail-card p { margin: 0; color: var(--muted); }
+.service-detail-card-featured { grid-column: 1 / -1; min-height: 230px; padding: clamp(2rem, 5vw, 3.4rem); border-color: rgba(22,140,140,.28); background: linear-gradient(120deg, var(--teal-soft), white 72%); }
+.service-detail-card-featured h2 { max-width: 680px; font-size: clamp(2rem, 3.3vw, 3.15rem); }
+.service-detail-card-featured p { max-width: 900px; color: #435b5c; font-size: 1.05rem; }
 .training-section { color: white; background: var(--purple-deep); }
 .training-grid { display: grid; grid-template-columns: 1fr 1fr; align-items: center; gap: clamp(3rem, 7vw, 6rem); }
 .training-copy h2 { color: white; }
